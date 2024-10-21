@@ -15,8 +15,8 @@ body {
 
 
 #p1 {
-    color: red;  /* Rouge */
-    background-color: yellow; /* Jaune */
+    color: rgb(128, 196, 92);  /* Rouge */
+    background-color: rgb(141, 124, 182); /* Jaune */
   }
   h2 {
     color: #ffffff;  /* Bleu clair */
