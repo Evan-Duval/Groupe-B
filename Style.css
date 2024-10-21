@@ -14,7 +14,7 @@ body {
   }
 
 
-p {
+p1 {
     color: red;  /* Rouge */
     background-color: yellow; /* Jaune */
   }
@@ -22,5 +22,11 @@ p {
     color: #ffffff;  /* Bleu clair */
   }
 
-
+p2 {
+    color: red;  /* Rouge */
+    background-color: yellow; /* Jaune */
+  }
+  h2 {
+    color: #ffffff;  /* Bleu clair */
+  }
 
