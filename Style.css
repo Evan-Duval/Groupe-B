@@ -1,0 +1,26 @@
+/* Changer la couleur de fond du corps de la page */
+body {
+    background-color: rgb(78, 79, 80);
+  }
+  
+  /* Styliser un texte avec une couleur spécifique */
+  h1 {
+    color: #FF6347; /* Hexadecimal: Rouge tomate */
+  }
+  
+  /* Utiliser un dégradé comme fond */
+  header {
+    background: linear-gradient(to right, #00f260, #0575e6);
+  }
+
+
+p {
+    color: red;  /* Rouge */
+    background-color: yellow; /* Jaune */
+  }
+  h2 {
+    color: #ffffff;  /* Bleu clair */
+  }
+
+
+
